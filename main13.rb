@@ -1,14 +1,14 @@
 # متدهای رشته ای
-# puts "String".chr
-# puts "a".chr
-# puts "Ali".hex
-# a = "Ruby Language"
-# puts a.length
-# puts "   ".length
-# puts a.empty?
-# puts " ".empty?
-# puts "".empty?
-# puts a.count('a')
+puts "String".chr
+puts "a".chr
+puts "Ali".hex
+a = "Ruby Language"
+puts a.length
+puts "   ".length
+puts a.empty?
+puts " ".empty?
+puts "".empty?
+puts a.count('a')
 
 # ===========================
 
